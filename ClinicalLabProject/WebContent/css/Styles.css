@@ -1,0 +1,99 @@
+@CHARSET "ISO-8859-1";
+
+#headings ul li a {
+	display: inline;
+	border: 2px solid orange;
+	border-radius: 25px 25px 25px 25px;
+	color: blue;
+	background-color: yellow;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+	border: 2px solid red;
+}
+
+body {
+	background-color: #FDDBE0;
+}
+
+header {
+	width: 100%;
+	height: 105px;
+	background-color: orange;
+}
+
+#hdLeft {
+	float: left;
+}
+
+#hdRight {
+	float: right;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+}
+
+#headings ul li a {
+	text-decoration: none;
+	padding-right: 10px;
+	font-size: 1.2em;
+	font-family: Arial;
+}
+
+table {
+	border: 1px solid blue;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	border-collapse: collapse;
+}
+
+tr, td, th {
+	border: 1px solid blue;
+	text-align: center;
+}
+
+label {
+	color: blue;
+	font: 20px;
+	font-size: 1.2em;
+	font-family: fantasy;
+}
+
+input[type='text']:HOVER {
+	font-size: 1.1em;
+	border: 2px solid blue;
+}
+
+footer {
+	width: 100%;
+	height: 105px;
+	background-color: orange;
+}
+
+h4 {
+	text-align: center;
+	color: blue;
+}
+
+#headings {
+	background-color: green;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	padding: 10px;
+}
+
+#headings ul li {
+	display: inline;
+}
+
+#headings ul li a:HOVER {
+	font-size: 1.1em;
+	border: 2px solid blue;
+}
