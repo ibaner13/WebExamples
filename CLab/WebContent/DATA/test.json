@@ -1,0 +1,8 @@
+[
+	{"tcode":"T01","name":"Urine Test","rate":2500},
+	{"tcode":"T02","name":"Blood Test","rate":4500},
+	{"tcode":"T03","name":"BP Test","rate":1200},
+	{"tcode":"T04","name":"HIV Test","rate":12500},
+	{"tcode":"R04","name":"HIV Test","rate":12500}
+	
+] 
