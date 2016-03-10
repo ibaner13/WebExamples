@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Execution Order</title>
+<script type="text/javascript" src="jslibs/jquery-1.12.1.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+	alert("On Load-1 Called");
+}
+window.onload=function(){
+	alert("On Load-2 Called");
+}
+$(function(){
+	alert("Ready-1 Called");
+});
+$(function(){
+	alert("Ready-2 Called");
+});
+</script>
+</head>
+<body>
+<h1>jQuery Examples</h1>
+</body>
+</html>
