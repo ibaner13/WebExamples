@@ -2,13 +2,11 @@ package com.training;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan("com.training.controllers")
-public class ResTfulServicesApplication {
+public class MvcBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ResTfulServicesApplication.class, args);
+		SpringApplication.run(MvcBootApplication.class, args);
 	}
 }
