@@ -1,5 +1,6 @@
 package com.training.daos;
 
+import java.io.Serializable;
 import java.util.List;
 
 import org.hibernate.Session;
@@ -20,7 +21,7 @@ public class DoctorDAO implements MyDAO<Doctor> {
 	Transaction tx = session.beginTransaction();
 	
 	@Override
-	public Object add(Doctor t) {
+	public Serializable add(Doctor t) {
 		
 		Address resiAdd = new Address("C4-1-9, ONGC Complex","Panvel","Navi Mumbai",410221);
 		Address cliAdd = new Address("NLH","MIT","Manipal",576104);
