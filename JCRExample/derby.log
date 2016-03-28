@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+2016-03-23 07:26:07.836 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0153-a25d-c587-000005ea9c80
+on database directory C:\Users\ibaner\workspace\JCRExample\repository\version\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-03-23 07:26:08.253 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 888c4022-0153-a25d-c587-000005ea9c80
+on database directory C:\Users\ibaner\workspace\JCRExample\repository\workspaces\default\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-03-23 07:26:08.812 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance e1734037-0153-a25d-c587-000005ea9c80
+on database directory C:\Users\ibaner\workspace\JCRExample\repository\workspaces\security\db  
+
+Database Class Loader started - derby.database.classpath=''
+
+2016-03-23 07:26:09.085 GMT:
+Shutting down instance 888c4022-0153-a25d-c587-000005ea9c80
+----------------------------------------------------------------
+
+2016-03-23 07:26:09.106 GMT:
+Shutting down instance e1734037-0153-a25d-c587-000005ea9c80
+----------------------------------------------------------------
+
+2016-03-23 07:26:09.120 GMT:
+Shutting down instance a816c00e-0153-a25d-c587-000005ea9c80
+----------------------------------------------------------------
