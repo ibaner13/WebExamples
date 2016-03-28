@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringProject">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="spring-test-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-test-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-test-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-test-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-oxm-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-core-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-core-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-support-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-support-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jms-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jms-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-websocket-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-websocket-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-tx-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-core-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-expression-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-beans-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/JDBC/spring-orm-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jdbc-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jms-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jms-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/CORE/spring-expression-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aspects-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-tomcat-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-tomcat-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-portlet-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-portlet-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-test-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-test-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/CORE/spring-beans-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/JDBC/spring-jdbc-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jdbc-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-web-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-orm-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aspects-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-oxm-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-tx-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jdbc-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-messaging-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-messaging-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-expression-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-orm-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/CORE/spring-context-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-support-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-support-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/JDBC/spring-tx-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aop-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-messaging-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-messaging-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-beans-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-websocket-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-websocket-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-portlet-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-portlet-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-tomcat-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-tomcat-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aop-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-orm-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-tomcat-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-instrument-tomcat-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-oxm-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/CORE/spring-core-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-tx-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-support-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-context-support-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-websocket-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-websocket-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-expression-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aop-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-web-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-aspects-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jms-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-jms-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/JDBC/spring-aop-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-portlet-4.1.5.RELEASE-sources.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-webmvc-portlet-4.1.5.RELEASE-sources.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.2.1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/CORE/commons-logging-1.2.1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-beans-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-4.1.5.RELEASE-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-web-4.1.5.RELEASE-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-messaging-4.1.5.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/spring-framework-4.1.5.RELEASE-dist/spring-framework-4.1.5.RELEASE/libs/spring-messaging-4.1.5.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-jpa-2.0-api-1.0.1.Final.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/hibernate-jpa-2.0-api-1.0.1.Final.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="oscache-2.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/oscache-2.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jta-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/jta-1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/hibernate3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.6.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/slf4j-api-1.6.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jbosscache-core-3.2.1.GA.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/jbosscache-core-3.2.1.GA.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ehcache-1.5.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/ehcache-1.5.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javassist-3.12.0.GA.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/javassist-3.12.0.GA.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.7.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/slf4j-api-1.7.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="c3p0-0.9.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/c3p0-0.9.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="proxool-0.8.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/proxool-0.8.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="antlr-2.7.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/antlr-2.7.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="infinispan-core-4.2.1.CR1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/infinispan-core-4.2.1.CR1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="cglib-2.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/hibernate-distribution-3.6.10.Final/lib/bytecode/cglib/cglib-2.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="dom4j-1.6.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/dom4j-1.6.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/commons-collections-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="cglib-2.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/cglib-2.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javassist-3.12.0.GA.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/hibernate-distribution-3.6.10.Final/lib/bytecode/javassist/javassist-3.12.0.GA.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-testing.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/hibernate-testing.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="backport-util-concurrent.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/backport-util-concurrent.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="swarmcache-1.0RC2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/swarmcache-1.0RC2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-nop-1.7.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ibaner/Desktop/Ishika/Study_Material/hibernate-distribution-3.6.10.Final-dist/requiredLib/slf4j-nop-1.7.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ojdbc14.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="SpringProject"/>
+        <property name="java-output-path" value="/SpringProject/build/classes"/>
+    </wb-module>
+</project-modules>
